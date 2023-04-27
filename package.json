@@ -1,0 +1,15 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "testing rfid connectivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sudo node index.js"
+  },
+  "author": "Caleb Theil",
+  "license": "MIT",
+  "dependencies": {
+    "node-hid": "^2.1.2"
+  }
+}
